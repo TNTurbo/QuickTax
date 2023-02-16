@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2017\Projects\C#\taxBot\taxBot\bin\Debug\taxBot.exe.config
+D:\Documents\Visual Studio 2017\Projects\C#\taxBot\taxBot\bin\Debug\taxBot.exe
+D:\Documents\Visual Studio 2017\Projects\C#\taxBot\taxBot\bin\Debug\taxBot.pdb
+D:\Documents\Visual Studio 2017\Projects\C#\taxBot\taxBot\obj\Debug\taxBot.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\C#\taxBot\taxBot\obj\Debug\taxBot.main.resources
+D:\Documents\Visual Studio 2017\Projects\C#\taxBot\taxBot\obj\Debug\taxBot.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\C#\taxBot\taxBot\obj\Debug\taxBot.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2017\Projects\C#\taxBot\taxBot\obj\Debug\taxBot.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\C#\taxBot\taxBot\obj\Debug\taxBot.exe
+D:\Documents\Visual Studio 2017\Projects\C#\taxBot\taxBot\obj\Debug\taxBot.pdb

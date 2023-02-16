@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taxBot", "taxBot\taxBot.csproj", "{96AF84DF-45E8-471E-8E86-106776E31C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxTests", "TestingTax\TaxTests.csproj", "{68143E9E-8ABE-47E0-9A7C-5BE2AE5501FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96AF84DF-45E8-471E-8E86-106776E31C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AF84DF-45E8-471E-8E86-106776E31C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AF84DF-45E8-471E-8E86-106776E31C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AF84DF-45E8-471E-8E86-106776E31C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68143E9E-8ABE-47E0-9A7C-5BE2AE5501FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68143E9E-8ABE-47E0-9A7C-5BE2AE5501FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68143E9E-8ABE-47E0-9A7C-5BE2AE5501FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68143E9E-8ABE-47E0-9A7C-5BE2AE5501FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A76E7A9E-1D3D-462A-8723-52D7C2684071}
+	EndGlobalSection
+EndGlobal
